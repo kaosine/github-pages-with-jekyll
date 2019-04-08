@@ -11,4 +11,5 @@ twitter_username: darsparx
 github_username:  Darsparx
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
 theme: minima
